@@ -28,8 +28,16 @@ The Rule Engine Application is a simple 3-tier rule engine that determines user 
 
 ## Getting Started
 
+## Command to run 
+# First build the project
+mvn clean package
+
+# Then run the JAR file
+java -jar target/rule-engine-app-1.0-SNAPSHOT.jar
+
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/kalyaniDhapodkar/RuleEngine
-cd rule-engine
+cd ruleengine
+
