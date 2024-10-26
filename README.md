@@ -16,7 +16,6 @@ The Rule Engine Application is a simple 3-tier rule engine that determines user 
 
 - Java 8+
 - Maven
-- MongoDB
 - JUnit (for testing)
 - JSON library
 
@@ -24,7 +23,6 @@ The Rule Engine Application is a simple 3-tier rule engine that determines user 
 
 - Java Development Kit (JDK) 8 or higher.
 - Apache Maven 3.x.
-- MongoDB installed and running on `localhost:27017`.
 
 ## Getting Started
 
