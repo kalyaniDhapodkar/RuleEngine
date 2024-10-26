@@ -1,0 +1,5 @@
+com\ruleengine\RuleEngineUI.class
+com\ruleengine\App.class
+com\ruleengine\Node.class
+com\ruleengine\RuleEngine.class
+com\ruleengine\RuleParser.class
