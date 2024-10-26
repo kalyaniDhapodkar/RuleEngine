@@ -31,5 +31,5 @@ The Rule Engine Application is a simple 3-tier rule engine that determines user 
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kalyaniDhapodkar/RuleEngine
 cd rule-engine
